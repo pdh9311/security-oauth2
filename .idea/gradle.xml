@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/oauth2-authorization" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/oauth2-authorization" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/oauth2-client" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/oauth2-client" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/oauth2-resource" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/oauth2-resource" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

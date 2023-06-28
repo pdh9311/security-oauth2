@@ -1,0 +1,26 @@
+server:
+  port: 8080
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          oidc-client:
+            client-id: oidc-client
+            client-secret: secret
+            authorization-grant-type: authorization_code
+            redirect-uri: "http://localhost:9000/authorized/{registrationId}"
+            scope: read, write
+
+        provider:
+          oidc-client:
+            issuer-uri: http://localhost:9000
+#          authorization-and-resource:
+#            authorization-uri: "http://localhost:9000/oauth2/v1/authorize"
+#            token-uri: http://localhost:9000/oauth2/v1/token
+
+
+
+
+

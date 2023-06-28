@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth2-authorization.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth2-authorization.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth2-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth2-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oauth2-resource.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oauth2-resource.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/security.iml" filepath="$PROJECT_DIR$/.idea/security.iml" />
+    </modules>
+  </component>
+</project>
